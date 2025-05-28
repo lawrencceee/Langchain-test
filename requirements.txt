@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+wikipedia
+langchain-openai
+faiss-cpu
+sentence_transformers
+langchain_huggingface
+beautifulsoup4
